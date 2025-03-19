@@ -8,4 +8,6 @@ printf("Nqma Hello world");
 do{printf("n=");
 scanf("%d",&n);}
 while(n<1);
+if(n>5)printf("ima hello world");
+else printf("nqma hello world otnovo");
 }
