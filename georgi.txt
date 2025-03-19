@@ -1,4 +1,7 @@
 abc
 include <stdio.h>
 #define abc;
-int main(){}
+int main()
+{
+printf("hello world.");
+}
