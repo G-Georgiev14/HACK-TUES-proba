@@ -1,1 +1,3 @@
-abc
+include <stdio.h>
+#define abc;
+int main(){}
